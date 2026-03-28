@@ -1,0 +1,24 @@
+body{
+    background-image: url(images/6bcb4-17207666067085-1920.webp);
+
+}
+a{
+    height: 200px;
+    width: 200px;
+}
+.q{
+        height: 300px;
+    width: 500px;
+    position: absolute;
+        top: 35%;
+    left: 15%;
+}
+
+.p{
+    height: 350px;
+    width: 350px;
+    position: absolute;
+    top: 35%;
+    left: 65%;
+
+}
